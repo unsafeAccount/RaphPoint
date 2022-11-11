@@ -22,4 +22,4 @@ _Et j'apprend le:_
 Vous pouvez me contacter de différentes façons !
 ### Discord
 Le discord est un endroit chill et convivial, venez !
-> https://discord.gg/hwmVGQGEFt
+[Click Here](https://discord.gg/hwmVGQGEFt) !
