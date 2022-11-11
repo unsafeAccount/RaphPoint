@@ -19,3 +19,4 @@ _Et j'apprend le:_
 - Java
 
 ## _Contact_
+### Discord
