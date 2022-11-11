@@ -19,7 +19,7 @@ _Et j'apprend le:_
 - Java
 
 ## _Contact_
-Vous pouvez me contacter de différentes façons !
-### Discord
+Vous pouvez me contacter sur le Discord `🌲・Orbite` !
+
 Le discord est un endroit chill et convivial, venez !
 [Click Here](https://discord.gg/hwmVGQGEFt) !
