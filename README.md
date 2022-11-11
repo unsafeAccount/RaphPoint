@@ -19,4 +19,7 @@ _Et j'apprend le:_
 - Java
 
 ## _Contact_
+Vous pouvez me contacter de différentes façons !
 ### Discord
+Le discord est un endroit chill et convivial, venez !
+> https://discord.gg/hwmVGQGEFt
