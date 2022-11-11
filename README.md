@@ -8,7 +8,8 @@ Salut, Je m'appelle Raphael ! Je suis un developpeur, je suis centré sur:
 Je developpe principalement en:
 - HTLM
 - CSS
-- JavaScript
+- JavaScript 
+
 Et j'apprend le:
 - Java
 
