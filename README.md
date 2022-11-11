@@ -1,15 +1,15 @@
 # A propos
 
-Salut, Je m'appelle Raphael ! Je suis un developpeur, je suis centré sur:
+_**Salut, Je m'appelle Raphael ! Je suis un developpeur, je suis centré sur:**_
 - Bots Discord
 - Developpement Web
 - (Soon) Plugins Minecraft
 
-Je developpe principalement en:
+_**Je developpe principalement en:**_
 - HTLM
 - CSS
 - JavaScript 
 
-Et j'apprend le:
+_**Et j'apprend le:**_
 - Java
 
