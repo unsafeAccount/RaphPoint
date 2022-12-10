@@ -6,7 +6,7 @@
 _Salut, Je m'appelle Raphael ! Je suis un developpeur, je suis centré sur:_
 - Bots Discord 
 - Developpement Web 
-- (Soon) Plugins Minecraft 
+- Plugins Minecraft 
 
 ### Languages
 
