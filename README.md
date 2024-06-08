@@ -18,8 +18,3 @@ _Je developpe principalement en:_
 _Et j'apprend le:_
 - Java
 
-## _Contact_
-Vous pouvez me contacter sur le Discord `🌲・Orbite` !
-
-Le discord est un endroit chill et convivial, venez !
-[Click Here](https://discord.gg/hwmVGQGEFt) !
