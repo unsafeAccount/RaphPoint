@@ -11,9 +11,9 @@ _Salut, Je m'appelle Raphael ! Je suis un developpeur, je suis centré sur:_
 ### Languages
 
 _Je developpe principalement en:_
-- HTLM
+- JavaScript
+- HTML
 - CSS
-- JavaScript 
 
 _Et j'apprend le:_
 - Java
